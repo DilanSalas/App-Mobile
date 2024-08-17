@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|c:\\users\\dilan\\onedrive\\desktop\\proy3_movilabigfood_grupo03\\bigfood service\\bigfood service\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\productospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\productospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\productospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\productospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.40\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\models\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\models\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\models\\conexionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\models\\conexionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\bigfood service\\bigfood service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{355ACBCD-7D0D-4755-9925-55198CB88FE7}|BigFood service\\BigFood service.csproj|solutionrelative:bigfood service\\bigfood service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dilan\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 584,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\MainPage.xaml",
+              "RelativeDocumentMoniker": "BigFood service\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\MainPage.xaml",
+              "RelativeToolTip": "BigFood service\\MainPage.xaml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-28T05:23:25.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosPage.xaml",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\ProductosPage.xaml",
+              "RelativeDocumentMoniker": "BigFood service\\ProductosPage.xaml",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\ProductosPage.xaml",
+              "RelativeToolTip": "BigFood service\\ProductosPage.xaml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAIwFgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T22:00:19.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "BigFood service\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\LoginPage.xaml",
+              "RelativeToolTip": "BigFood service\\LoginPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T06:02:53.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "BigFood service\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\LoginPage.xaml.cs",
+              "RelativeToolTip": "BigFood service\\LoginPage.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T07:07:57.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "BigFood service\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\MauiProgram.cs",
+              "RelativeToolTip": "BigFood service\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:54:50.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\ProductosPage.xaml.cs",
+              "RelativeDocumentMoniker": "BigFood service\\ProductosPage.xaml.cs",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\ProductosPage.xaml.cs",
+              "RelativeToolTip": "BigFood service\\ProductosPage.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:16:22.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConexionAPI.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\Models\\ConexionAPI.cs",
+              "RelativeDocumentMoniker": "BigFood service\\Models\\ConexionAPI.cs",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\Models\\ConexionAPI.cs",
+              "RelativeToolTip": "BigFood service\\Models\\ConexionAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:12:04.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BigFood service\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\App.xaml.cs",
+              "RelativeToolTip": "BigFood service\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T06:20:33.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "BigFood service\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\MainPage.xaml.cs",
+              "RelativeToolTip": "BigFood service\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:15:35.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "BigFood service\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\Models\\Producto.cs",
+              "RelativeToolTip": "BigFood service\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:53:34.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\Models\\Conexion.cs",
+              "RelativeDocumentMoniker": "BigFood service\\Models\\Conexion.cs",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\Models\\Conexion.cs",
+              "RelativeToolTip": "BigFood service\\Models\\Conexion.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:08:00.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "BigFood service\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\Models\\Usuario.cs",
+              "RelativeToolTip": "BigFood service\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T07:12:45.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "BigFood service\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "BigFood service\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:36:44.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "BigFood service\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "BigFood service\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-27T22:36:24.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\App.xaml",
+              "RelativeDocumentMoniker": "BigFood service\\App.xaml",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\App.xaml",
+              "RelativeToolTip": "BigFood service\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T21:50:51.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appicon.svg",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\Resources\\AppIcon\\appicon.svg",
+              "RelativeDocumentMoniker": "BigFood service\\Resources\\AppIcon\\appicon.svg",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\Resources\\AppIcon\\appicon.svg",
+              "RelativeToolTip": "BigFood service\\Resources\\AppIcon\\appicon.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMWSURBVDhPZVNNaBNREP72ZbOtm8QkJtu0TdJipMaqmIrgH1UUqbRUBBH/CvagKIiCKB561IMHT0VEwZOgN/XiyYsiopQWrWIt1oa00WrENv\u002BbbJpNNm99u4mo\u002BC3Dzpudb97M8C2HvzA6Ourq6elxlcvlRuQPjNgyw9DQUIoda2aQ0lfEdBoghFyXJGk\u002BGAzOBwIB0/x\u002Bv2ler3fe7XY/GxkZ6WPxFQ3CLovpNNDf339pcHAwtGqVCx4nheT4DLcQg0dcRhUOBDq6WkRR3CgIwmIikYjLsqz9XYCLDAyf/E6bQ7ncUzjl28D3e9ArAjQ5ieTPH/CFtsPna5NYp2G73R4bHx\u002BPmwU8B284wsNXTjkD/qPb13yzrcdtLMQJHqfPISacwJr2EGgxibczKXyamSUcx7WyncwtLCyM8Th719oV6hjYs0m8eLjrubcz9xDRXB/eOY7gx8p2TC8VWBfAQKgXvRsC0Go6FEVBJpMx2yaRthZbpBOHDgSfdvq/PCC65TTawuexrWM1muQCJK8HU0U74qoE0e6A0\u002BlEkyCYZAP8liAnRjzvd3ZWxoSHP08jtrQNmp5GTWdzKxThTa1YrFkQz2rYHKTgCYHOiJTSeoHh9bc8krXJF1X2Ihs\u002BBhcvAroOyszLUlWlBFqtokYtRphBZ2/TMUF2tE8dL8qUe2M5oE3Ppqgvl8a6Sh7dzFoySazMLSHioOiWRBAmO0ZvUOsgajI/8CHhj31ctKtuyQXVKqBSo\u002BxGHZpgQ95qQ5ESiIIFHHsMvlHk9wiEpqvWxzOhCzPRxORSoUrjEDFFXHgHJ6ZVNnuqiFaRoM3ZBO4f4ddhuXwUnub4GM3ltai6TNaqFcG7mClAlWXYywX0tq/AsS1\u002B2AQrSzeu11EqlTA7G305MTHxmn/yAneUbHnf1uX7adkb/NC3e3BdVimzlnn4Xc0Iuuuyr4/OWuAM508r/JlRGIp4ZByudlv389mv8BjzlXWkcjqS8frSjM3Xt28IqaTk8/kM0wTlza8NsIRrc3NzNxvH//D7N2d5tWq1mp2cnNR\u002BAWnfX52e/fTNAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-27T19:46:02.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BigFood service.csproj",
+              "DocumentMoniker": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\BigFood service.csproj",
+              "RelativeDocumentMoniker": "BigFood service\\BigFood service.csproj",
+              "ToolTip": "C:\\Users\\dilan\\OneDrive\\Desktop\\Proy3_MovilaBigFOOD_Grupo03\\BigFood service\\BigFood service\\BigFood service.csproj",
+              "RelativeToolTip": "BigFood service\\BigFood service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T21:58:51.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-27T04:41:14.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "DocumentMoniker": "C:\\Users\\dilan\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "ToolTip": "C:\\Users\\dilan\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-24T22:22:55.442Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 302,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.40\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.40\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.40\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.40\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AQIAAGsCAAAAAAAAAAAhwG8CAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-28T05:25:57.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

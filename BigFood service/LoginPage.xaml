@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BigFood_service.LoginPage"
+             BackgroundColor="CadetBlue">
+
+    <ContentPage.Content>
+
+        <StackLayout Padding="30" Spacing="10">
+
+            <Image
+                    Source="clavee.png"
+                    HeightRequest="100"
+                    Aspect="AspectFit"
+                    SemanticProperties.Description="Seguridad" />
+
+            <Label Text="Iniciar Sesión" 
+                   FontSize="24" 
+                   HorizontalOptions="Center" />
+
+            <Entry x:Name="usernameEntry"
+                   Placeholder="Email"
+                   BackgroundColor="White" 
+                   TextColor="Black" />
+
+            <Entry x:Name="passwordEntry"
+                   Placeholder="Password"
+                   IsPassword="True"
+                   BackgroundColor="White" 
+                   TextColor="Black" />
+
+            <Button Text="Ingresar"
+                    Clicked="OnLoginClicked"
+                    BackgroundColor="DarkGray" 
+                    TextColor="Black"
+                    BorderColor="Black" 
+                    BorderWidth="3"
+                    CornerRadius="5" />
+
+                <Label x:Name="messageLabel"
+                   Text=""
+                   TextColor="Red"
+                   HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

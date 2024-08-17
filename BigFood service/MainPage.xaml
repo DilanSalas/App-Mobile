@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BigFood_service.MainPage"
+             Title="BIG FOOD SERVICE"
+             Background="CadetBlue">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25"
+            Margin="0,40,0,0">
+            <Image
+                Source="product_icon.jpg"
+                HeightRequest="200"
+                Aspect="AspectFit"
+                SemanticProperties.Description="Logo de BIG FOOD SERVICE" />
+
+            <Label
+                Text="¡Bienvenidos a BIG FOOD SERVICE!"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" />
+
+            <Label
+                Text="Explora nuestros deliciosos productos"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Explora nuestros deliciosos productos" />
+
+            <Button
+            x:Name="VerProductosBtn"
+            Text="Ver Productos" 
+            SemanticProperties.Hint="Muestra la lista de productos disponibles"
+            Clicked="OnVerProductosClicked"
+            HorizontalOptions="Fill"
+            BackgroundColor="DarkGray" 
+            TextColor="Black"
+            BorderColor="Black" 
+            BorderWidth="3"
+            CornerRadius="5" />
+
+
+            <Button
+                Text="Salir"
+                BackgroundColor="Red"
+                TextColor="Black"
+                Clicked="OnExitButtonClicked"
+                HorizontalOptions="Center"
+                VerticalOptions="End"
+                BorderWidth="3"
+                CornerRadius="8"
+                BorderColor="Black" 
+                Padding="10"
+            />
+       </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
